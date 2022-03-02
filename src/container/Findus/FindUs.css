@@ -1,0 +1,11 @@
+@media screen and (max-width:1150px) {
+    .footer-text {
+        align-items: center;
+        text-align: center;
+    }
+
+    .footer-image img {
+        width:65%;
+        height:65%
+    }
+}
